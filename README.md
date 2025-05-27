@@ -1,6 +1,6 @@
 # EPS-Grupo-4
 
-Este repositório contém os principais artefatos para a Release R_1 da plataforma emergente, organizados em seções com links de acesso.
+Este repositório contém os principais artefatos para a Release R_1, organizados em seções com links de acesso.
 
 
 ---
