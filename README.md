@@ -7,6 +7,22 @@ Este repositório contém os principais artefatos para a Release R_1, organizado
 
 ## 🔗 Acessos Rápidos
 
+### 🎥 Vídeos
+
+#### Vídeo do Segundo Pitch
+
+Compreensão dos épicos e distribuição de tarefas para a Release R_1:
+
+- [Link de acesso](https://link-para-prototipo-baixa)
+
+#### Vídeo de Demonstração e Relato da Entrega
+
+Demonstração das funcionalidades implementadas e relato do processo de entrega:
+
+- [Link de acesso](https://link-para-prototipo-baixa)
+
+---
+
 ### 🎨 Protótipos
 
 Protótipos atualizados, refletindo a evolução da interface e da experiência do usuário para os épicos implementados:
