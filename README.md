@@ -43,11 +43,17 @@ Documentos atualizados que refletem o escopo da Release R_1:
 
 ---
 
-### 📋 Backlog Inicial do Produto / Incremento
+### 📋 📊 Backlog, Incrementos e Histórias de Usuário
 
-Lista atualizada das histórias de usuário planejadas para o produto, incluindo correções dos defeitos identificados:
+Todas as informações de planejamento estão centralizadas no GitHub Projects, incluindo:
 
-- [Backlog Atualizado](https://link-para-backlog)
+- Backlog Inicial
+
+- Incrementos / Defeitos
+
+- Issues com Histórias de Usuário e Critérios de Aceitação
+
+- [GitHub Projects]([https://link-para-backlog](https://github.com/users/Mateuszinnn/projects/1/views/1))
 
 ---
 
