@@ -53,12 +53,6 @@ Todas as informações de planejamento estão centralizadas no GitHub Projects, 
 
 - Issues com Histórias de Usuário e Critérios de Aceitação
 
-- [GitHub Projects]([https://link-para-backlog](https://github.com/users/Mateuszinnn/projects/1/views/1))
-
----
-
-### 📁 Histórias de usuário e critérios de aceitação
-
-- [Histórias de usuário e critérios de aceitação]([https://link-para-template](https://github.com/users/Mateuszinnn/projects/1))
+- [GitHub Projects](https://github.com/users/Mateuszinnn/projects/1/views/1)
 
 ---
