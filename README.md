@@ -28,7 +28,7 @@ Demonstração das funcionalidades implementadas e relato do processo de entrega
 Protótipos atualizados, refletindo a evolução da interface e da experiência do usuário para os épicos implementados:
 
 - [Protótipo de Baixa Fidelidade - Épico 2](https://link-para-prototipo-baixa)
-- [Protótipo de Alta Fidelidade - Épico 2](https://link-para-prototipo-alta)
+- [Protótipo de Alta Fidelidade - Épico 2](https://www.figma.com/design/9sRDAVlgBkTWO4HwUrZ2ZM/Sem-t%C3%ADtulo?node-id=0-1&t=6O6uiJJo6VhprzhZ-1)
 - [Protótipo de Baixa Fidelidade - Épico 17](https://link-para-prototipo-baixa)
 - [Protótipo de Alta Fidelidade - Épico 17](https://link-para-prototipo-alta)
 
