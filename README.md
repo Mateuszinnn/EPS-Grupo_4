@@ -39,7 +39,7 @@ Protótipos atualizados, refletindo a evolução da interface e da experiência 
 Documentos atualizados que refletem o escopo da Release R_1:
 
 - [Visão do Produto](https://link-para-visao-produto)
-- [Canvas MVP](https://link-para-canvas-mvp)
+- [Canvas MVP](https://github.com/Mateuszinnn/EPS-Grupo_4/blob/main/Canvas%20MVP.pdf)
 
 ---
 
