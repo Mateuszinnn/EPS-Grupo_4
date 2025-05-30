@@ -29,8 +29,6 @@ Protótipos atualizados, refletindo a evolução da interface e da experiência 
 
 - [Protótipo de Baixa Fidelidade - Épico 2](https://www.canva.com/design/DAGo8LKvg00/LjNPwqf3wGBNUiHcwDxAjQ/edit?utm_content=DAGo8LKvg00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Protótipo de Alta Fidelidade - Épico 2](https://www.figma.com/design/9sRDAVlgBkTWO4HwUrZ2ZM/Sem-t%C3%ADtulo?node-id=0-1&t=6O6uiJJo6VhprzhZ-1)
-- [Protótipo de Baixa Fidelidade - Épico 17](https://link-para-prototipo-baixa)
-- [Protótipo de Alta Fidelidade - Épico 17](https://link-para-prototipo-alta)
 
 ---
 
