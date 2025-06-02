@@ -48,3 +48,11 @@ Todas as informações de planejamento estão centralizadas no GitHub Projects, 
 - [GitHub Projects](https://github.com/users/Mateuszinnn/projects/1/views/1)
 
 ---
+
+### Custos
+
+O custo de desenvolvimento da plataforma se restringiu exclusivamente ao trabalho de desenvolvimento (código, estrutura e implementação). Não houve gastos com licenciamento, infraestrutura externa ou aquisição de ferramentas adicionais nesse processo inicial.
+
+No entanto, é importante destacar que existe um custo variável associado ao uso da inteligência artificial integrada à plataforma, que utiliza a API do Gemini. Essa cobrança é baseada no volume de tokens processados. A política de preços atual estabelece que, ao atingir 1 milhão de tokens, são cobrados **US$ 0,10 por milhão de tokens de entrada (input) e US$ 0,40 por milhão de tokens de saída (output)**. Esses valores são aplicados somente após o consumo do limite gratuito e devem ser considerados como parte dos custos operacionais contínuos da plataforma.
+
+---
